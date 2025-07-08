@@ -1,0 +1,5 @@
+/home/ht-admin/Documents/Practice/Azure_Practice/AzureAppGatewayDemo/WelcomeToAzureApp/publish/WelcomeToAzureApp
+/home/ht-admin/Documents/Practice/Azure_Practice/AzureAppGatewayDemo/WelcomeToAzureApp/publish/WelcomeToAzureApp.dll
+/home/ht-admin/Documents/Practice/Azure_Practice/AzureAppGatewayDemo/WelcomeToAzureApp/publish/WelcomeToAzureApp.deps.json
+/home/ht-admin/Documents/Practice/Azure_Practice/AzureAppGatewayDemo/WelcomeToAzureApp/publish/WelcomeToAzureApp.runtimeconfig.json
+/home/ht-admin/Documents/Practice/Azure_Practice/AzureAppGatewayDemo/WelcomeToAzureApp/publish/WelcomeToAzureApp.pdb

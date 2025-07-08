@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F9R3Fn9/7VsHRJAX+QMvHwbJSbSscR3I8BxdzsZdTic=",
+  "Source": "WelcomeToAzureApp",
+  "BasePath": "_content/WelcomeToAzureApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
